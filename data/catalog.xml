@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <media>
+        <type>book</type>
+        <title>Clean Code</title>
+        <year>2008</year>
+        <creator>Robert C. Martin</creator>
+        <extra>464 pages</extra>
+    </media>
+</catalog>
