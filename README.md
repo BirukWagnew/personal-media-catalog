@@ -45,12 +45,11 @@ personal-media-catalog
 │ ├── catalog.xml
 │ └── media_catalog.xsd
 │
-├── xslt
-│ ├── full_catalog.xsl
-│ └── movies_only.xsl
-│
-├── requirements.txt
-└── README.md
+media_catalog/
+└── xslt/
+    ├── full_catalog.xsl
+    └── movies_only.xsl
+
 
 
 ---
