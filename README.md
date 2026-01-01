@@ -27,35 +27,34 @@ This project was developed as part of a course assignment to demonstrate skills 
 
 ## 📁 Project Structure
 
+```
 personal-media-catalog/
 │
 ├── src/
 │   ├── main.py
 │   ├── __init__.py
-│   │
 │   ├── models/
 │   │   ├── __init__.py
 │   │   └── media.py
-│   │
 │   ├── repositories/
 │   │   ├── __init__.py
 │   │   └── catalog_repository.py
-│   │
-│   ├── services/
-│   │   ├── __init__.py
-│   │   ├── catalog_manager.py
-│   │   └── media_factory.py
-│   │
-│   └── data/
-│       ├── catalog.xml
-│       └── media_catalog.xsd
+│   └── services/
+│       ├── __init__.py
+│       ├── catalog_manager.py
+│       └── media_factory.py
 │
-├── media_catalog/
-│   └── xslt/
-│       ├── full_catalog.xsl
-│       └── movies_only.xsl
-
-
+├── data/
+│   ├── catalog.xml
+│   └── media_catalog.xsd
+│
+├── xslt/
+│   ├── full_catalog.xsl
+│   └── movies_only.xsl
+│
+├── requirements.txt
+└── README.md
+```
 
 ---
 
