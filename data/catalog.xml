@@ -1,10 +1,2 @@
 <?xml version='1.0' encoding='utf-8'?>
-<catalog>
-    <media>
-        <type>book</type>
-        <title>Clean Code</title>
-        <year>2008</year>
-        <creator>Robert C. Martin</creator>
-        <extra>464 pages</extra>
-    </media>
-<media><title>The Bible</title><year>7000</year><creator>Lord</creator><extra>If you belive in jesus christ you will get life</extra></media><media><title>The art of Loosing turn to Winning</title><year>2026</year><creator>Biruk Wagnew</creator><extra>Biruk was a good man but by his friends he turn to evil becuase he trusted them so much and after that he decides.........</extra></media><media><title>Test Book</title><year>2024</year><creator>Joe </creator><extra>sample</extra></media><media><title /><year>2000</year><creator /><extra /></media></catalog>
+<catalog><media><type>book</type><title>The loop</title><year>2002</year><creator>koole</creator><extra>900 pages</extra></media></catalog>
