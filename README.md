@@ -23,6 +23,8 @@ This project was developed as part of a course assignment to demonstrate skills 
 - **Git & GitHub**
 
 ---
+# Personal Media Catalog
+
 ## 📁 Project Structure
 
 personal-media-catalog/
@@ -52,6 +54,13 @@ personal-media-catalog/
 │   └── xslt/
 │       ├── full_catalog.xsl
 │       └── movies_only.xsl
+
+<<<<<<< HEAD
+=======
+│
+└── README.md   (optional but recommended)
+
+>>>>>>> a1f84c7c6f77a05d34c39ee52b70cee58c5c4457
 
 
 
