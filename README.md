@@ -25,7 +25,7 @@ This project was developed as part of a course assignment to demonstrate skills 
 ---
 
 ## 📁 Project Structure
-personal-media-catalog
+
 personal-media-catalog/
 │
 ├── src/
