@@ -55,13 +55,6 @@ personal-media-catalog/
 │       ├── full_catalog.xsl
 │       └── movies_only.xsl
 
-<<<<<<< HEAD
-=======
-│
-└── README.md   (optional but recommended)
-
->>>>>>> a1f84c7c6f77a05d34c39ee52b70cee58c5c4457
-
 
 
 ---
